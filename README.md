@@ -13,10 +13,10 @@ Zdecentralizowane aplikacje (dApps), protokoły blockchain, bezpieczeństwo smar
 **Co oferuję:**  
 
 
-Doświadczenie w tworzeniu i wdrażaniu smart kontraktów na Ethereum i innych blockchainach
+- Doświadczenie w tworzeniu i wdrażaniu smart kontraktów na Ethereum i innych blockchainach
 
-Znajomość narzędzi deweloperskich i workflow w środowisku CLI
+- Znajomość narzędzi deweloperskich i workflow w środowisku CLI
 
-Zaangażowanie w projekty open-source i współpracę w zespołach
+- Zaangażowanie w projekty open-source i współpracę w zespołach
 
-Chęć ciągłego rozwoju i nauki nowych technologii
+- Chęć ciągłego rozwoju i nauki nowych technologii
