@@ -21,8 +21,8 @@ Zdecentralizowane aplikacje (dApps), protokoły blockchain, bezpieczeństwo smar
 
 - Chęć ciągłego rozwoju i nauki nowych technologii
 
-[Github](https://www.github.com/marcinsalamonski)  
+[wwww.github.com/marcinsalamonski](https://www.github.com/marcinsalamonski)  
 
-[Github](https://www.github.com/ostrykot)  
+[www.github.com/ostrykot](https://www.github.com/ostrykot)  
 
 Find me also on [Reddit](https://www.reddit.com/user/marcinsalamonski)
