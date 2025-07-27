@@ -20,3 +20,5 @@ Zdecentralizowane aplikacje (dApps), protokoły blockchain, bezpieczeństwo smar
 - Zaangażowanie w projekty open-source i współpracę w zespołach
 
 - Chęć ciągłego rozwoju i nauki nowych technologii
+
+Find me also on [Reddit](https://www.reddit.com/user/marcinsalamonski)
